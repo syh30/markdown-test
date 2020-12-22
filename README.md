@@ -31,3 +31,10 @@ Ordered
 
 링크 삽입  
 [유튜브로 연습연습하쟈](https://youtu.be/dUbp9wAy178)
+
+코드 블록  
+```javascript 
+function test() { 
+ console.log("hello world!"); 
+} 
+```
