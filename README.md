@@ -87,3 +87,6 @@ ___
 *literal asterisks*    
 __＼*＼*Text＼*＼*__    
 _＼_Tom＼__
+
+이모지   
+:+1:
