@@ -83,7 +83,7 @@ __조금 어렵긴 하다 ㅋㅋㅋ ㅠㅠ__
 ***
 ___
 
-＼*literal asterisks＼* 
-*literal asterisks* 
-__＼*＼*Text＼*＼*__ 
+＼*literal asterisks＼*    
+*literal asterisks*    
+__＼*＼*Text＼*＼*__    
 _＼_Tom＼__
