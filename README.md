@@ -23,4 +23,8 @@ Ordered
 빈 줄이 없으면 자동으로 앞의 문장 뒤에 붙음. 스페이스바 두번이상 누르면 다음문장으로   
 다음문장이당
 
-![케이크](/images/benjamin-henon-ZAucxTNf9bw-unsplash.jpg)
+이미지 연습
+![케이크](/images/benjamin-henon-ZAucxTNf9bw-unsplash.jpg){: width="1080" height="720"}
+
+이미지 연습2
+![cake](/images/benjamin-henon-ZAucxTNf9bw-unsplash.jpg)
