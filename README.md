@@ -24,7 +24,7 @@ Ordered
 다음문장이당
 
 이미지 연습
-![케이크](/images/benjamin-henon-ZAucxTNf9bw-unsplash.jpg){: width="1080" height="720"}
+![케이크](/images/benjamin-henon-ZAucxTNf9bw-unsplash.jpg){: width="100" height="100"}
 
 이미지 연습2
 ![cake](/images/benjamin-henon-ZAucxTNf9bw-unsplash.jpg)
