@@ -89,4 +89,4 @@ __＼*＼*Text＼*＼*__
 _＼_Tom＼__
 
 이모지   
-:+1:
+:+1: :sparkles: :camel: :tada: :rocket: :metal: :otocat:
